@@ -1,1 +1,2 @@
 # Docker-exercices
+CHOSE A BRANCH TO SEE ALL THE EXERCICES
